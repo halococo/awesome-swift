@@ -3437,6 +3437,12 @@
       "homepage":"https://github.com/rxwei/Parsey"
     },
     {
+      "title":"EunNeun",
+      "category":"text",
+      "description":"Automatically chooses the correct Korean particle (은/는, 이/가, 을/를, etc.) for a given word or sentence.",
+      "homepage":"https://github.com/halococo/EunNeun"
+    },
+    {
       "title":"PhoneNumberKit",
       "category":"phone-numbers",
       "description":"Framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.",
